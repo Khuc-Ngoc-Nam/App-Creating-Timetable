@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+release2/
+tmp-*
+vendor/fet/translations/
+*.log
+*.local
+.DS_Store
