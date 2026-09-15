@@ -4,6 +4,7 @@ release/
 release2/
 tmp-*
 vendor/fet/translations/
+docs/screenshots/chrome-profile/
 *.log
 *.local
 .DS_Store
